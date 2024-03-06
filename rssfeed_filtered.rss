@@ -1,0 +1,50 @@
+﻿<rss version="2.0">
+  <channel>
+    <title>BSI Warn- und Informationsdienst (WID): Schwachstellen-Informationen (Security Advisories) Gefiltert</title>
+    <link>https://wid.cert-bund.de/portal/wid/securityadvisory</link>
+    <description>BSI Warn- und Informationsdienst (WID) RSS Feed zur Verteilung Schwachstellen-Informationen (Security Advisories). Wurde durch uns gefiltert</description>
+    <pubDate>Mon, 04 Mar 2024 09:27:20 GMT</pubDate>      
+    <item>
+      <title>[NEU] [mittel] Microsoft GitHub Enterprise: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0525</link>
+      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft GitHub Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen.</description>
+      <category>mittel</category>
+      <pubDate>Fri, 01 Mar 2024 11:30:55 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[NEU] [niedrig] Microsoft Edge: Schwachstelle ermöglicht Offenlegung von Informationen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0530</link>
+      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um Informationen offenzulegen.</description>
+      <category>niedrig</category>
+      <pubDate>Fri, 01 Mar 2024 12:05:55 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0433</link>
+      <description>Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Informationen offenzulegen oder Sicherheitsvorkehrungen zu umgehen.</description>
+      <category>hoch</category>
+      <pubDate>Fri, 01 Mar 2024 12:05:57 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Microsoft Azure Site Recovery und Azure Storage: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0654</link>
+      <description>Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure Site Recovery und Azure Storage ausnutzen, um seine Privilegien zu erhöhen, Informationen offenzulegen oder beliebigen Programmcode auszuführen.</description>
+      <category>hoch</category>
+      <pubDate>Wed, 28 Feb 2024 10:39:39 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Microsoft Windows und Microsoft Windows Server: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1442</link>
+      <description>Ein entfernter, anonymer, authentisierter oder lokaler Angreifer kann mehrere Schwachstellen in Microsoft Windows und Microsoft Windows Server ausnutzen, um seine Rechte zu erweitern, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu Manipulieren und einen Denial-of-Service-Zustand zu verursachen.</description>
+      <category>hoch</category>
+      <pubDate>Fri, 01 Mar 2024 09:01:05 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglicht nicht spezifizierten Angriff</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0501</link>
+      <description>Ein entfernter anonymer Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff zu starten.</description>
+      <category>mittel</category>
+      <pubDate>Fri, 01 Mar 2024 12:30:57 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
