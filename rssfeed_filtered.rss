@@ -3,20 +3,41 @@
     <title>BSI Warn- und Informationsdienst (WID): Schwachstellen-Informationen (Security Advisories) Gefiltert</title>
     <link>https://wid.cert-bund.de/portal/wid/securityadvisory</link>
     <description>BSI Warn- und Informationsdienst (WID) RSS Feed zur Verteilung Schwachstellen-Informationen (Security Advisories). Wurde durch uns gefiltert</description>
-    <pubDate>Mon, 04 Mar 2024 09:27:20 GMT</pubDate>      
+    <pubDate>Thu, 07 Mar 2024 13:34:09 GMT</pubDate>      
     <item>
-      <title>[NEU] [mittel] Microsoft GitHub Enterprise: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen</title>
-      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0525</link>
-      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft GitHub Enterprise ausnutzen, um Sicherheitsvorkehrungen zu umgehen.</description>
-      <category>mittel</category>
-      <pubDate>Fri, 01 Mar 2024 11:30:55 GMT</pubDate>
+      <title>[NEU] [hoch] Linux: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0548</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen in Linux ausnutzen, um seine Privilegien zu erhöhen oder einen Denial of Service Zustand herbeizuführen.</description>
+      <category>hoch</category>
+      <pubDate>Tue, 05 Mar 2024 10:35:53 GMT</pubDate>
     </item>      
     <item>
-      <title>[NEU] [niedrig] Microsoft Edge: Schwachstelle ermöglicht Offenlegung von Informationen</title>
-      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0530</link>
-      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um Informationen offenzulegen.</description>
-      <category>niedrig</category>
-      <pubDate>Fri, 01 Mar 2024 12:05:55 GMT</pubDate>
+      <title>[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0561</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen oder einen nicht spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 12:35:54 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0559</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder unbekannte Auswirkungen zu verursachen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 11:05:55 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0567</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 09:35:53 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[NEU] [mittel] Red Hat Enterprise Linux und Directory Server: Schwachstelle ermöglicht Denial of Service</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0547</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux und Red Hat Directory Server ausnutzen, um einen Denial of Service Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Tue, 05 Mar 2024 10:05:55 GMT</pubDate>
     </item>      
     <item>
       <title>[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen</title>
@@ -26,18 +47,88 @@
       <pubDate>Fri, 01 Mar 2024 12:05:57 GMT</pubDate>
     </item>      
     <item>
-      <title>[UPDATE] [hoch] Microsoft Azure Site Recovery und Azure Storage: Mehrere Schwachstellen</title>
-      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0654</link>
-      <description>Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Microsoft Azure Site Recovery und Azure Storage ausnutzen, um seine Privilegien zu erhöhen, Informationen offenzulegen oder beliebigen Programmcode auszuführen.</description>
+      <title>[UPDATE] [hoch] Linux "Shim": Schwachstelle ermöglicht Übernahme der Kontrolle</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0326</link>
+      <description>Ein anonymer Angreifer aus dem angrenzenden Netzwerk kann eine Schwachstelle in der "Shim" Komponente von Linux-Systemen ausnutzen, um die Kontrolle über ein betroffenes System zu übernehmen.</description>
       <category>hoch</category>
-      <pubDate>Wed, 28 Feb 2024 10:39:39 GMT</pubDate>
+      <pubDate>Tue, 05 Mar 2024 09:35:59 GMT</pubDate>
     </item>      
     <item>
-      <title>[UPDATE] [hoch] Microsoft Windows und Microsoft Windows Server: Mehrere Schwachstellen</title>
-      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1442</link>
-      <description>Ein entfernter, anonymer, authentisierter oder lokaler Angreifer kann mehrere Schwachstellen in Microsoft Windows und Microsoft Windows Server ausnutzen, um seine Rechte zu erweitern, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu Manipulieren und einen Denial-of-Service-Zustand zu verursachen.</description>
+      <title>[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen ermöglichen Privilegieneskalation</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0017</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um seine Privilegien zu erweitern.</description>
       <category>hoch</category>
-      <pubDate>Fri, 01 Mar 2024 09:01:05 GMT</pubDate>
+      <pubDate>Thu, 07 Mar 2024 12:06:02 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1059</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen oder einen Denial of Service Zustand herbeizuführen.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:49 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Mozilla Firefox und Mozilla Thunderbird: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-1934</link>
+      <description>Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Programmcode auszuführen, seine Privilegien zu erweitern, Informationen offenzulegen, Dateien zu manipulieren, einen Denial of Service Zustand herbeizuführen oder Sicherheitsvorkehrungen zu umgehen.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:39 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2743</link>
+      <description>Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand zu verursachen oder vertrauliche Informationen offenzulegen. Zur erfolgreichen Ausnutzung ist eine Benutzeraktion erforderlich.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:11 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0443</link>
+      <description>Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder einen nicht spezifizierten Angriff durchzuführen.</description>
+      <category>hoch</category>
+      <pubDate>Wed, 06 Mar 2024 09:05:57 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Mozilla Firefox: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0185</link>
+      <description>Ein entfernter anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, einen Denial-of-Service-Zustand herbeizuführen, vertrauliche Informationen offenzulegen, seine Rechte zu erweitern oder einen Phishing-Angriff durchzuführen.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:05:59 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Mozilla Firefox: Schwachstelle ermöglicht Codeausführung</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2514</link>
+      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox und Mozilla Firefox ESR ausnutzen, um beliebigen Programmcode auszuführen.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:24 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Red Hat Enterprise Linux (libvpx): Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2599</link>
+      <description>Ein entfernter anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux in der Komponente libvpx ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen oder beliebigen Code auszuführen.</description>
+      <category>hoch</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:20 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Red Hat Enterprise Linux (Pillow): Schwachstelle ermöglicht Codeausführung</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0337</link>
+      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux in der Komponente "Pillow" ausnutzen, um beliebigen Programmcode auszuführen.</description>
+      <category>hoch</category>
+      <pubDate>Fri, 01 Mar 2024 09:00:56 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Red Hat Enterprise Linux: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2022-0571</link>
+      <description>Ein entfernter, anonymer, authentisierter oder lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Cross-Site-Scripting-Angriff durchzuführen, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand herbeizuführen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Dateien zu manipulieren und einen nicht spezifizierten Angriff durchzuführen.</description>
+      <category>hoch</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:58 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [hoch] Red Hat Enterprise Linux: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit den Rechten des Dienstes</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3207</link>
+      <description>Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux und CentOS ausnutzen, um beliebigen Programmcode mit den Rechten des Dienstes auszuführen oder einen Denial of Service zu verursachen.</description>
+      <category>hoch</category>
+      <pubDate>Tue, 05 Mar 2024 09:36:23 GMT</pubDate>
     </item>      
     <item>
       <title>[UPDATE] [mittel] Google Chrome und Microsoft Edge: Mehrere Schwachstellen ermöglicht nicht spezifizierten Angriff</title>
@@ -45,6 +136,118 @@
       <description>Ein entfernter anonymer Angreifer kann mehrere Schwachstellen in Google Chrome und Microsoft Edge ausnutzen, um einen nicht näher spezifizierten Angriff zu starten.</description>
       <category>mittel</category>
       <pubDate>Fri, 01 Mar 2024 12:30:57 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0557</link>
+      <description>Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 09:35:56 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel (ATA over Ethernet): Schwachstelle ermöglicht Denial of Service und Code-Ausführung</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0014</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder um beliebigen Code auszuführen.</description>
+      <category>mittel</category>
+      <pubDate>Tue, 05 Mar 2024 09:36:06 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0136</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder seine Privilegien zu erweitern.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:04 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0177</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:03 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0551</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Tue, 05 Mar 2024 09:36:19 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Privilegieneskalation</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-3181</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service zu verursachen, Code auszuführen oder um seine Privilegien zu erhöhen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:08 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0002</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 12:06:03 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht nicht spezifizierten Angriff</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0494</link>
+      <description>Ein  Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 09:36:23 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-0274</link>
+      <description>Ein entfernter, authentisierter Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 09:36:24 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2760</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.</description>
+      <category>mittel</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:09 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux-Kernel (bluetooth): Schwachstelle ermöglicht Denial of Service und Code-Ausführung</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0015</link>
+      <description>Ein lokaler Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder um beliebigen Code auszuführen.</description>
+      <category>mittel</category>
+      <pubDate>Thu, 07 Mar 2024 09:36:05 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Linux-Kernel: Mehrere Schwachstellen ermöglichen Denial of Service und unspezifische Angriffe</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0475</link>
+      <description>Ein lokaler Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen oder einen nicht spezifizierten Angriff durchzuführen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:05:55 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2448</link>
+      <description>Ein entfernter anonymer Angreifer kann mehrere Schwachstellen in Mozilla Firefox, Mozilla Firefox ESR und Mozilla Thunderbird ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, vertrauliche Informationen offenzulegen oder beliebigen Code auszuführen.</description>
+      <category>mittel</category>
+      <pubDate>Mon, 04 Mar 2024 09:06:25 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2922</link>
+      <description>Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Dateien zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:16 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [mittel] Red Hat Enterprise Linux's oniguruma, tcpslice, c-ares: Mehrere Schwachstellen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0218</link>
+      <description>Ein entfernter Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial-of-Service-Zustand zu erzeugen, beliebigen Code auszuführen oder sensible Informationen offenzulegen.</description>
+      <category>mittel</category>
+      <pubDate>Wed, 06 Mar 2024 09:06:02 GMT</pubDate>
+    </item>      
+    <item>
+      <title>[UPDATE] [niedrig] Linux Kernel: Schwachstelle ermöglicht Offenlegung von Informationen</title>
+      <link>https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2023-2953</link>
+      <description>Ein entfernter, authentisierter Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um Informationen offenzulegen.</description>
+      <category>niedrig</category>
+      <pubDate>Thu, 07 Mar 2024 09:36:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

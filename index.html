@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <noscript>
+      Javascript ist deaktiviert. Bitte aktivieren Sie Javascript, um
+      die Seite zu nutzen.
+    </noscript>
+    <title>RSS Feed Filter</title>
+  </head>
+  <body>
+    <h1>RSS Feed Filter Admin</h1>
+    <form id="keyword_form">
+      <br />
+      <label for="keyword">Keywords</label>
+      <p>Bitte gebe die Keywörter Komma separiert an</p>
+      <input type="text" id="keyword" name="keyword" required />
+      <br />
+      <button type="submit">Set Filter</button>
+    </form>
+    <p id="log"></p>
+  </body>
+</html>

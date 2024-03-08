@@ -4,9 +4,10 @@ Invoke-RestMethod -Uri $url -OutFile $savePath
 [xml]$Content = Get-Content $savePath -Encoding utf8
 $Feed = $Content.rss.channel
 
-$newRSSSavePath = '.\rssfeed_filtered.rss'
+$newRSSSavePath = '.\rss.rss'
 
-$filterlist = "Grafana", "Windows", "Microsoft", "Edge", "Chrome"
+$filterlist = Get-Content -path .\keywords.txt
+$filterlist = $filterlist.Split(",")
 
 $newRSS = [PSCustomObject]@()
 
